@@ -4,18 +4,50 @@
       "email": "ramer17845@duiter.com",
       "password": "$2a$10$uQ1hJRCi5qRSLitfEqPL2e0A9sjFSWo1YEJ8nLbeejPIZBLZt8ObC",
       "name": "Abdurahmon",
+      "id": 1,
+      "address": [
+        {
+          "newAddres": "Toshkent",
+          "phone": "901270201"
+        }
+      ]
+    },
+    {
+      "email": "fazik90@gmail.com",
+      "password": "$2a$10$xRBgdKvNI9u9ER.7/xjHhePWgB0HpgYgpVRIwzHNFamS/Bz/5VRuq",
+      "username": "Fazliddin",
+      "dataGet": "Abdugaffarov",
+      "userFirtsName": "7444-05-04",
+      "phoneData": "shbfvghjsvbn",
+      "confirmPassword": "123456",
+      "contackt": "sxclkbhj xvm,",
+      "id": 2
+    }
+  ],
+  "useradress": [
+    {
+      "username": "Fazliddin",
+      "addres": "Bekobod",
+      "phoneNumber": "901270201",
       "id": 1
     },
     {
-      "email": "azikzdes@gmail.com",
-      "password": "$2a$10$cmUL8JCzEWHu58.uGLzNpOPSwfQY2ll3v9usrWzDNOV6tkF3iHh0q",
       "username": "Fazliddin",
-      "dataGet": "Abdugaffarov",
-      "userFirtsName": "2025-01-15",
-      "phoneData": "m,dn bn",
-      "confirmPassword": "123456",
-      "contackt": "sdfsdafasdfadsf",
+      "addres": "Toshkent",
+      "phoneNumber": "901270201",
       "id": 2
+    },
+    {
+      "username": "Fazliddin",
+      "addres": "Toshlkent Novza",
+      "phoneNumber": "901270201",
+      "id": 3
+    },
+    {
+      "username": "Fazliddin",
+      "addres": "Toshlkent Novza",
+      "phoneNumber": "901270201",
+      "id": 4
     }
   ],
   "banners": [
@@ -44,6 +76,7 @@
           "color": "Black",
           "brand": "Samsung",
           "price": "1 700 000",
+          "salePrice": "1 360 000",
           "id": 21
         },
         {
@@ -53,6 +86,7 @@
           "color": "Graphite Gray",
           "brand": "Xiaomi",
           "price": "1 732 000",
+          "salePrice": "1 385 000",
           "id": 22
         },
         {
@@ -62,6 +96,7 @@
           "color": "Green",
           "brand": "Redmi",
           "price": "4 450 000",
+          "salePrice": "3 560 000",
           "id": 23
         },
         {
@@ -71,6 +106,7 @@
           "color": "Фиолетовый",
           "brand": "Samsung",
           "price": "10 365 000",
+          "salePrice": "8 3308 000",
           "id": 24
         },
         {
@@ -80,6 +116,7 @@
           "color": "Серый",
           "brand": "Samsung",
           "price": "10 357 000",
+          "salePrice": "8 285 000",
           "id": 25
         },
         {
@@ -89,6 +126,7 @@
           "color": "Titanium Black",
           "brand": "Samsung",
           "price": "16 432 000",
+          "salePrice": "13 145 000",
           "id": 26
         },
         {
@@ -98,6 +136,7 @@
           "color": "Titanium Black",
           "brand": "Samsung",
           "price": "16 632 000",
+          "salePrice": "13 305 000",
           "id": 27
         },
         {
@@ -107,6 +146,7 @@
           "color": "Фиолетовый",
           "brand": "Novey",
           "price": "1 479 000",
+          "salePrice": "1 183 000",
           "id": 28
         }
       ]
@@ -625,6 +665,15 @@
       "brand": "Apple",
       "price": "18 604 000",
       "id": 51
+    },
+    {
+      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/main/giperMart/phone/phone19.jpg",
+      "title": "Apple iPhone 15 Pro Max",
+      "rame": "512 Gb",
+      "color": "Black titanium",
+      "brand": "Apple",
+      "price": "18 604 000",
+      "id": 52
     }
   ]
 }
